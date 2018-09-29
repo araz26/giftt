@@ -27,7 +27,7 @@ particlesJS.load('particles-js', 'js/particles-config.json', function() {
 
 // Add messages in single quotation marks here
 let messagesArray = [
-  'I love seeing you happy and my biggest reward is seeing you smile.',
+  'Every day of your life, you spend most of it with me making me the most valuable as you grow older. Happy Birthday!',
   'dolor sit amet',
   'consectetur adipiscing'
 ];
