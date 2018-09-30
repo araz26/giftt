@@ -61,8 +61,8 @@ let messagesArray = [
 
 function showMessage() {
   // Uncomment the line below and comment the line after it to remove the hardcoded date
-  let currentDate = moment().format("DD-MM-YYYY");
-  // let currentDate = "02-10-2018";
+  // let currentDate = moment().format("DD-MM-YYYY");
+  let currentDate = "02-10-2018";
   // Since the messages will be shown on starting from 2nd October, so...
   let messageIndex = currentDate.substr(0, 2) - 2;
   // If the current date is after October 2nd then show the daily message
