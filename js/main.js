@@ -29,7 +29,7 @@ particlesJS.load('particles-js', 'js/particles-config.json', function() {
 let messagesArray = [
   'Every day of your life, you spend most of it with me making me the most valuable as you grow older. Happy Birthday!',
   'How can someone look soo close to perfection even right after waking up?',
-  'Your snaps are soo cute they make me skip a beat',
+  'No, Fuck you',
   'Waking up in the morning has never been this easy for me.',
   'Waking up in the middle of the night hoping I am right on time to talk to you',
   'No matter what I do, my mind is with you',
